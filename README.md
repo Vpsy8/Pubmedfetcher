@@ -1,4 +1,4 @@
-                                        PubMed Fetcher
+                                       ** PubMed Fetcher**
 A tool to fetch biotech and biopharma industry-affiliated research articles based on user-defined keywords
 
 1. Overview
