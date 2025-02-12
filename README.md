@@ -1,4 +1,4 @@
-                                       ** PubMed Fetcher**
+                                                       PubMed Fetcher
 A tool to fetch biotech and biopharma industry-affiliated research articles based on user-defined keywords
 
 1. Overview
@@ -7,6 +7,7 @@ Note: Refer to the script for Industry Keywords, Industry Identifiers, and Acade
 
 2. Features:
 Command-line Execution: Provides an executable command named get-papers-list via Poetry
+
 Supports options: 
 -h / --help: Display usage instructions
 o	-d / --debug: Print debug information during execution
